@@ -1,0 +1,31 @@
+{
+  "name": "hexo-generator-douban2",
+  "version": "0.0.3",
+  "description": "Douban generator plugin for Hexo. (support proxy)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "log4node": "^0.1.6",
+    "object-assign": "^2.0.0",
+    "q": "^1.5.1",
+    "request": "^2.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangkexiong/hexo-generator-douban2.git"
+  },
+  "keywords": [
+    "hexo",
+    "generator",
+    "douban"
+  ],
+  "author": "wangkexiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangkexiong/hexo-generator-douban2/issues"
+  },
+  "homepage": "https://github.com/wangkexiong/hexo-generator-douban2#readme"
+}
