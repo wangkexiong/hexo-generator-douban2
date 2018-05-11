@@ -27,6 +27,8 @@ douban:
 ```
 
 - **user** - Your douban user id.
+- **requests_method** - sequential(default)/parallel HTTP requests
+- **books_per_request** - Books per API request, default 50, max 100
 
 ## Demo
 

@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-douban2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Douban generator plugin for Hexo. (support proxy)",
   "main": "index.js",
   "scripts": {

@@ -1,3 +1,6 @@
+
+'use strict';
+
 var assign = require('object-assign');
 
 hexo.config.douban = assign({
